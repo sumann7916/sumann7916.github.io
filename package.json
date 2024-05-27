@@ -11,6 +11,7 @@
 		"check": "biome check --apply-unsafe ."
 	},
 	"devDependencies": {
+		"pnpm": "^9.1.3",
 		"@astrojs/check": "^0.6.0",
 		"@astrojs/tailwind": "^5.1.0",
 		"@biomejs/biome": "1.7.3",
