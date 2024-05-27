@@ -1,20 +1,20 @@
 [
 	{
-		"name": "Email.ML",
-		"description": "Minimalist temporary Email.",
-		"image": "/assets/images/projects/email.ml.png",
-		"url": "https://email.ml"
+		"name": "Issue Tracker",
+		"description": "Issue Tracker is a simple issue tracking system that allows users to create, view, and manage issues. It is built Remix, Prisma, and PostgreSQL.",
+		"image": "/assets/images/projects/issueTracker.png",
+		"url": "https://github.com/sumann7916/issue-tracker"
 	},
 	{
-		"name": "DNS.Surf",
-		"description": "Querying DNS Resolution Results in Different Regions Worldwide.",
-		"image": "/assets/images/projects/dns.surf.png",
-		"url": "https://dns.surf"
+		"name": "Face Recognition Website Using Django",
+		"description": "Basic Face Recognition Attendance System made using Django and face recognition library",
+		"image": "/assets/images/projects/face recog.png",
+		"url": "https://github.com/sumann7916/Django-Face-Recognition-Website-?tab=readme-ov-file"
 	},
 	{
-		"name": "HTML.ZONE",
-		"description": "Web Toolbox.",
-		"image": "/assets/images/projects/html.zone.png",
-		"url": "https://html.zone"
+		"name": "Ecommerce Backend",
+		"description": "Ecommerce Backend with location based filter in NestJS and TypeORM.",
+		"image": "/assets/images/projects/backend.jpg",
+		"url": "https://github.com/sumann7916/ecommerce-backend"
 	}
 ]

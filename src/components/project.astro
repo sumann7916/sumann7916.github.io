@@ -16,8 +16,9 @@ const { name, description, url, image } = Astro.props;
   <span
     class="relative z-30 block duration-300 ease-out group-hover:-translate-x-1 group-hover:-translate-y-1"
   >
-    <span class="block w-full">
-      <img src={image} class="w-full h-auto rounded-lg" />
+    <span class="block w-full h-48">
+      <!-- Adjust the height as needed -->
+      <img src={image} class="w-full h-full rounded-lg object-cover" />
     </span>
     <span class="block w-full px-1 mt-5 mb-1 sm:mt-3">
       <span
