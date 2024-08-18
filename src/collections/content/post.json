@@ -2,7 +2,8 @@
 	{
 		"title": "Implementing Bit Field Role-Based Access Control (RBAC)",
 		"description": "Master Bit Field Role-Based Access Control to efficiently manage user permissions with binary encoding. Learn how to implement it with Express.js and Prisma for streamlined access control",
-		"link": "https://blog.yarsalabs.com/implementing-bit-field-role-based-access-control/"
+		"link": "https://blog.yarsalabs.com/implementing-bit-field-role-based-access-control/",
+		"dateFormatted":"Aug 9, 2024"
 	},
 	{
 		"title": "Understanding Signal Protocol: X3DH Protocol",
