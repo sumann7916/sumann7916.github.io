@@ -11,7 +11,8 @@ const { title } = Astro.props;
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CEDRS70V2J"
     ></script>
-    <script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
       window && window.dataLayer && window.dataLayer.push({ js: new Date() });
       window &&
         window.dataLayer &&
