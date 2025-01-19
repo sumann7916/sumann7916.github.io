@@ -1,5 +1,10 @@
 [
-	{
+  {
+   "name": "News InShorts",
+ "description": "News InShorts scrapes news from different news websites and provides summarized version of the news using extractive summarization",
+ "image": "/assets/images/projects/news-inshorts.png",
+ "url": "https://github.com/sumann7916/news-inshorts"},
+ {
 		"name": "Issue Tracker",
 		"description": "Issue Tracker is a simple issue tracking system that allows users to create, view, and manage issues. It is built Remix, Prisma, and PostgreSQL.",
 		"image": "/assets/images/projects/issueTracker.png",

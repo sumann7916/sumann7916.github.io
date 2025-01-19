@@ -1,9 +1,15 @@
-[
+[{
+  "dates": "December 2024 · Present",
+  "role": "Full Stack Developer",
+  "company": "PortPro",
+  "description": "Full Stack Developer, working on Drayage Software Platform using technologies like ExpressJS, Temporal, Redis, etc. to build scalable APIs.",
+  "logo": "/assets/images/experiences/portpro.jpeg"
+},
 	{
-		"dates": "August 2023 · Present",
+		"dates": "August 2023 · November 2024",
 		"role": "Software Developer",
 		"company": "Yarsa Labs",
-		"description": "Software Developer, working with Technologies like Remix, Nest.js, Postgres, Prisma, etc. Currently working on Yarsa Play, a Saas platform for Game Developers.",
+		"description": "Software Developer, worked with Technologies like Remix, Nest.js, Postgres, Prisma, etc. Currently working on Yarsa Play, a Saas platform for Game Developers.",
 		"logo": "/assets/images/experiences/yarsa.png"
 	},
 	{
@@ -12,12 +18,6 @@
 		"company": "Yarsa Labs",
 		"description": "Backend Trainee, worked with Technologies like Remix, Nest.js, Postgres, Prima, Redis, mono-repo, etc.",
 		"logo": "/assets/images/experiences/yarsa.png"
-	},
-	{
-		"dates": "Feb 2023 · April 2023 ",
-		"role": "Node Intern",
-		"company": "Lanceme Up",
-		"description": "Backend Intern, worked with Nest.js, Postgres, TypeORM on ecommerce system, saas platform, etc",
-		"logo": "/assets/images/experiences/lancemeup.jpeg"
 	}
 ]
+
